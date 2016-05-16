@@ -6,5 +6,7 @@ auto foreman puppet mco for  linux adn windows os install
 由于foreman和puppet 安装相当复杂，稍后本人将放上基于docker images镜相的foreman，简化安装程序，开箱即用。
 先放上windows 版本的
 百度网盘
+
 http://pan.baidu.com/s/1kV4J3nx
+
 xr32
